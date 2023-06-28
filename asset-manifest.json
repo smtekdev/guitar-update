@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/guitar-update/static/js/main.afb8d9c4.js",
+    "index.html": "/guitar-update/index.html",
+    "main.afb8d9c4.js.map": "/guitar-update/static/js/main.afb8d9c4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.afb8d9c4.js"
+  ]
+}
